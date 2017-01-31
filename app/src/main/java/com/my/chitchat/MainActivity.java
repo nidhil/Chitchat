@@ -5,7 +5,7 @@ package com.my.chitchat;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//THIS IS FUCKING MAIN ACTIVITY//////
+//THIS IS FUCKING MAIN ACTIVITY nik//////
 
 public class MainActivity extends AppCompatActivity {
 
