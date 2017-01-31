@@ -8,11 +8,10 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:719439547049:android:99330d35fa915ceb",
+        "mobilesdk_app_id": "1:719439547049:android:8548aa05f1723db6",
         "android_client_info": {
-          "package_name": "com.example.adityanischal.chitchat"
+          "package_name": "com.my.chitchat"
         }
-
       },
       "oauth_client": [
         {
