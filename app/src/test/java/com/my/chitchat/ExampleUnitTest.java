@@ -1,4 +1,4 @@
-package com.example.adityanischal.chitchat;
+package com.my.chitchat;
 
 import org.junit.Test;
 

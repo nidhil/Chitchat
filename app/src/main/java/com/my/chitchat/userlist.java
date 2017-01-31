@@ -1,8 +1,7 @@
-package com.example.adityanischal.chitchat;
+package com.my.chitchat;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Toast;
 
 public class userlist extends AppCompatActivity {
 

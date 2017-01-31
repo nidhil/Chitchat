@@ -1,4 +1,4 @@
-package com.example.adityanischal.chitchat;
+package com.my.chitchat;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
